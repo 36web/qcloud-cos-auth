@@ -1,0 +1,28 @@
+{
+  "name": "qcloud-cos-auth",
+  "version": "0.0.0",
+  "description": "Just a simple module which generates signatures for accessing Tencent Cloud COS APIs",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/36web/qcloud-cos-auth.git"
+  },
+  "keywords": [
+    "qcloud",
+    "Tencent",
+    "Cloud",
+    "COS"
+  ],
+  "author": "Chris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/36web/qcloud-cos-auth/issues"
+  },
+  "homepage": "https://github.com/36web/qcloud-cos-auth#readme",
+  "dependencies": {
+    "random-js": "^1.0.8"
+  }
+}
